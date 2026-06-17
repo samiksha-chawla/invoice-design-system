@@ -1,6 +1,6 @@
 {
   "name": "invoice-design-system",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Invoice Design System. Petpooja design guidelines enforcer — loads base design rules on every invocation, then conditionally loads web or mobile rules based on the requested surface. Derived strictly from the official Figma source files.",
   "author": {
     "name": "Rutvij Parikh",

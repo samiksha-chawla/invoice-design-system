@@ -104,4 +104,3 @@ The guidelines are non-negotiable for design output, but the user may:
 - Ask for an experimental / off-system mockup → require explicit acknowledgment
   ("yes, intentionally off-system") before producing it, and clearly label the
   output as non-canonical.
-
