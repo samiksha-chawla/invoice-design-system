@@ -1,0 +1,10 @@
+{
+  "name": "design-md",
+  "version": "0.1.0",
+  "description": "Petpooja design guidelines enforcer. Loads base design rules on every invocation, then conditionally loads web or mobile rules based on the requested surface. Derived strictly from the official Figma source files.",
+  "author": {
+    "name": "Rutvij Parikh",
+    "email": "rutvij.parikh@petpooja.com"
+  },
+  "keywords": ["design-system", "petpooja", "figma", "ui", "guidelines"]
+}
