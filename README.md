@@ -9,7 +9,7 @@ in Figma (base + web + mobile guidelines).
 In Claude Code:
 
 ```
-/plugin marketplace add rutvijparikh/petpooja-design-system
+/plugin marketplace add samiksha-chawla/petpooja-design-system
 /plugin install design-md@petpooja-design
 ```
 
