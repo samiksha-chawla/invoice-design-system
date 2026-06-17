@@ -1,18 +1,18 @@
 {
-  "name": "petpooja-design",
+  "name": "invoice-design",
   "owner": {
     "name": "Rutvij Parikh",
     "email": "rutvij.parikh@petpooja.com"
   },
   "metadata": {
-    "description": "Petpooja design system as Claude Code plugins.",
+    "description": "Invoice Design System as Claude Code plugins.",
     "version": "0.1.0"
   },
   "plugins": [
     {
-      "name": "design-md",
+      "name": "invoice-design-system",
       "source": "./",
-      "description": "Petpooja design guidelines enforcer (base + web + mobile)."
+      "description": "Invoice Design System — Petpooja design guidelines enforcer (base + web + mobile)."
     }
   ]
 }

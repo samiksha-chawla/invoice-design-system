@@ -1,7 +1,7 @@
-# Petpooja Design System — Claude Code Plugin
+# Invoice Design System — Claude Code Plugin
 
 The Petpooja design guidelines, packaged as a Claude Code plugin. It ships the
-`design-md` skill, which strictly enforces the Petpooja design system as defined
+`design-md` skill, which strictly enforces the Invoice Design System as defined
 in Figma (base + web + mobile guidelines).
 
 ## Install
@@ -9,8 +9,8 @@ in Figma (base + web + mobile guidelines).
 In Claude Code:
 
 ```
-/plugin marketplace add samiksha-chawla/petpooja-design-system
-/plugin install design-md@petpooja-design
+/plugin marketplace add samiksha-chawla/invoice-design-system
+/plugin install invoice-design-system@invoice-design
 ```
 
 Then restart Claude Code (or reload plugins). The `design-md` skill will be
