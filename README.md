@@ -1,7 +1,7 @@
 # Invoice Design System — Claude Code Plugin
 
 The Petpooja design guidelines, packaged as a Claude Code plugin. It ships the
-`design-md` skill, which strictly enforces the Invoice Design System as defined
+`invoice-design` skill, which strictly enforces the Invoice Design System as defined
 in Figma (base + web + mobile guidelines).
 
 ## Install
@@ -13,7 +13,7 @@ In Claude Code:
 /plugin install invoice-design-system@invoice-design
 ```
 
-Then restart Claude Code (or reload plugins). The `design-md` skill will be
+Then restart Claude Code (or reload plugins). The `invoice-design` skill will be
 available — it activates when you ask to "design", "create UI", "build a screen",
 "apply the design system", or "design review".
 
@@ -21,10 +21,10 @@ available — it activates when you ask to "design", "create UI", "build a scree
 
 | File                        | Purpose                                   |
 | --------------------------- | ----------------------------------------- |
-| `skills/design-md/SKILL.md` | The enforcer skill (loaded by Claude)     |
-| `skills/design-md/base.md`  | Base guidelines (always loaded)           |
-| `skills/design-md/web.md`   | Web guidelines (loaded for web surfaces)  |
-| `skills/design-md/mobile.md`| Mobile guidelines (loaded for mobile)     |
+| `skills/invoice-design/SKILL.md` | The enforcer skill (loaded by Claude)     |
+| `skills/invoice-design/base.md`  | Base guidelines (always loaded)           |
+| `skills/invoice-design/web.md`   | Web guidelines (loaded for web surfaces)  |
+| `skills/invoice-design/mobile.md`| Mobile guidelines (loaded for mobile)     |
 
 ## Source of truth
 

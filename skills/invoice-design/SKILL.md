@@ -1,5 +1,5 @@
 ---
-name: design-md
+name: invoice-design
 version: 0.1.0
 description: |
   Petpooja design guidelines enforcer. Loads base design rules on every invocation,
@@ -21,7 +21,7 @@ allowed-tools:
   - AskUserQuestion
 ---
 
-# /design-md — Petpooja Design Guidelines
+# /invoice-design — Petpooja Design Guidelines
 
 Strict enforcement of the Petpooja design system as defined in Figma. **Base
 guidelines apply to every design.** Web or mobile guidelines layer on top of
